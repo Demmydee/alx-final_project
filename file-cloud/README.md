@@ -1,4 +1,4 @@
-To build a full-stack JavaScript app that is functionally similar to a File Metadata Microservice, you'll need to create a service that allows users to upload files and then provides information about those files, such as their size and content type. You can use Node.js and Express.js for the backend and a front-end framework like React for the user interface. Here are the steps to create such an app:
+To build a full-stack JavaScript app that is functionally similar to cloud, you'll need to create a service that allows users to upload files and then provides information about those files, such as their size and content type. You can use Node.js and Express.js for the backend and a front-end framework like React for the user interface. Here are the steps to create such an app:
 
 **1. Set up your development environment:**
    - Install Node.js and npm (Node Package Manager) if you haven't already.
